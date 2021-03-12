@@ -33,7 +33,7 @@ h3 {
   text-shadow: 2px 2px #ff0000;
   background-color: #0000;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 500px;
   margin-right: 150px;
   margin-left: 80px;
 }
@@ -47,6 +47,10 @@ p {
   margin-right: 150px;
   margin-left: 80px;
 }
-#songs {
-  text-align: left;
+#tracks {
+  text-align: center;
+  background-color: #8a4131;
+  width: 1690px;
+  border: 10px solid #ffc289;
+  padding: 10px;
 }
