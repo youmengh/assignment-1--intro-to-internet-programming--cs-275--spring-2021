@@ -9,8 +9,7 @@ body {
 }
 
 h1 {
-
-  color: #4c54ae;
+  color: #8a4131;
   font-size: 60px;
   font-weight: bold;
   text-shadow: 4px 4px #000;
@@ -22,19 +21,19 @@ h1 {
 }
 
 h2 {
-  color: #4c54ae;
+  color: #8a4131;
   font-size: 40px;
   font-weight: bold;
   text-shadow: 3px 3px #000;
   background-color: #0000;
   margin-top: 40px;
-  margin-bottom: 500px;
+  margin-bottom: 400px;
   margin-right: 150px;
   margin-left: 80px;
 }
 
 h3 {
-  color: #4c54ae;
+  color: #8a4131;
   font-size: 30px;
   font-weight: bold;
   text-shadow: 2px 2px #000;
@@ -52,7 +51,7 @@ h3 {
 }
 
 p {
-  text-align: center;
+  text-align: left;
   color: #ffc289;
   font-size: 20px;
   text-shadow: 2px 2px #000;
@@ -62,5 +61,5 @@ p {
   margin-left: 30px;
   margin-right: 30px;
   margin-bottom: 75px;
-  padding: 30px;
+  padding: 40px;
 }
