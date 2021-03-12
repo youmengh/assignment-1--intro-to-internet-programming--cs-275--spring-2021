@@ -1,1 +1,24 @@
 
+
+
+* {
+  font-family: Georgia, Georgia, serif;
+  border: 1px black;
+  background-color: #ffc289;
+}
+h1 {
+  color: #ff0000;
+  font-size: 32px;
+}
+h2 {
+  color: #ff0000;
+  font-size: 24px;
+}
+h3 {
+  color: #ff0000;
+  font-size: 16px;
+}
+p {
+  color: #ff0000;
+  font-size: 12px;
+}
