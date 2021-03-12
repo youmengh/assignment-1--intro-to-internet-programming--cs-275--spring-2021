@@ -3,7 +3,8 @@ body {
   font-family: Papyrus, cursive, fantasy;
   border: 1px black;
   text-align: center;
-  background-color: #ffc289;
+  background-image: url(../img/background.jpg);
+  background-position: center;
 }
 h1 {
   color: #ff0000;
